@@ -13,6 +13,6 @@ All codes were run on Google Colab (Pro version, that gives better access to GPU
 
 ### Notebook Descriptions:
 
-- [SBI_Cosmogrid.ipynb](SBI_Cosmogrid.ipynb) is used to train a NPE (Simulation-Based Inference) model, and produce a file containing predictions on the test set.
+- [SBI_Convergence_Maps.ipynb](SBI_Convergence_Maps.ipynb) is used to train a NPE (Simulation-Based Inference) model, and produce a file containing predictions on the test set.
 - [BNN_Cosmogrid.ipynb](BNN_Cosmogrid.ipynb) is used to train a BNN model, and produces a file containing predictions on the same test set as the NPE model.
 - [Evaluation_and_Calibration.ipynb](Evaluation_and_Calibration.ipynb) is reads the predictions generated using the previous two notebooks and produces posterior examples and a calibration plot.
