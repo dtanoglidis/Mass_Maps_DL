@@ -21,4 +21,4 @@ All codes were run on Google Colab (Pro version, that gives better access to GPU
 Auxillary notebooks:
 
 - [Noisify.ipynb](Noisify.ipynb), adds shape noise to the noiseless maps and produces as an output a file containing noisy maps.
-- [Reshuffle_and_Split.ipynb](Reshuffle_and_Split.ipynb), 
+- [Reshuffle_and_Split.ipynb](Reshuffle_and_Split.ipynb), reshuffles and splits the big cosmogrid dataset for faster training/memory requirements.
